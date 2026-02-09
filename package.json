@@ -28,5 +28,8 @@
   "bugs": {
     "url": "https://github.com/maxlath/tiny-chalk/issues"
   },
-  "homepage": "https://github.com/maxlath/tiny-chalk#readme"
+  "homepage": "https://github.com/maxlath/tiny-chalk#readme",
+  "devDependencies": {
+    "@types/node": "^25.2.2"
+  }
 }
