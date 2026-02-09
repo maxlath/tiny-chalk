@@ -1,6 +1,6 @@
 {
   "name": "tiny-chalk",
-  "version": "3.0.2",
+  "version": "4.0.0",
   "type": "module",
   "description": "A super tiny version of chalk",
   "main": "./index.js",
