@@ -1,6 +1,15 @@
 # CHANGELOG
 *versions follow [SemVer](http://semver.org)*
 
+## 4.0.0 - 2026-02-09
+* **BREAKING CHANGE**: requires NodeJS `>= v20.12.0`
+* Support `NO_COLOR`, `NODE_DISABLE_COLORS` and `FORCE_COLOR` environment variables
+* Adds new styles found in `util.inspect.colors`:
+  * `blink`
+  * `doubleunderline`
+  * `framed`
+  * `overline`
+
 ## 3.0.0 - 2022-12-30
 **BREAKING CHANGE**: convert to ES module
 
