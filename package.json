@@ -12,7 +12,7 @@
   ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/maxlath/tiny-chalk.git"
+    "url": "https://codeberg.org/maxlath/tiny-chalk"
   },
   "keywords": [
     "tiny",
@@ -26,9 +26,9 @@
   "author": "maxlath",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/maxlath/tiny-chalk/issues"
+    "url": "https://codeberg.org/maxlath/tiny-chalk/issues"
   },
-  "homepage": "https://github.com/maxlath/tiny-chalk#readme",
+  "homepage": "https://codeberg.org/maxlath/tiny-chalk#readme",
   "devDependencies": {
     "@types/node": "^25.2.2"
   }
